@@ -38,11 +38,15 @@
     </td>
   </tr>
 </table>
-## 📈 Matteo Yáñez’s GitHub Stats
+## 📈 Matteo Yánez’s GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dilanmateo&show_icons=true&hide_border=true&bg_color=000000&text_color=FFD700&title_color=FFD700" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilanmateo&layout=compact&hide_border=true&bg_color=000000&text_color=FFD700" width="45%"/>
+</p>
+
+<p align="center" style="color:#FFD700">
+  🔸 Most Used Languages: <strong>Python</strong>, <strong>Java</strong>, <strong>SQL</strong>, <strong>R</strong>
 </p>
 
 ## 📫 ¡Hablemos!
