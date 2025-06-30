@@ -38,7 +38,7 @@
     </td>
   </tr>
 </table>
-## 📈 Matteo Yáñez’s GitHub Stats
+--## 📈 Matteo Yáñez’s GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dilanmateo&show_icons=true&hide_border=true&bg_color=000000&text_color=FFD700&title_color=FFD700" width="60%"/>
@@ -52,15 +52,25 @@
   <img src="https://img.shields.io/badge/R-FFD700?style=for-the-badge&logo=r&logoColor=black" />
 </p>
 
-## 📫 ¡Hablemos!
-<p align="center">
-  <a href="mailto:tu.correo@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/tuusuario"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+---
 
-<details>
-  <summary>🏆 Logros y Certificaciones</summary>
+## 🎓 Academic Background
+
+- 🎓 **Computer Systems Engineering** – Universidad Internacional del Ecuador (UIDE)  
+- 📅 Expected Graduation: 2025  
+- 📚 Currently in: **2nd Semester**
+
+### 📘 Key Courses:
+- Logic of Programming  
+- Structured and Functional Programming  
+- Computer Architecture  
+- Introduction to UNIX  
+- Data Networks  
+- Databases  
+- Differential and Integral Calculus
+
+---
+
   - Google Data Analytics (2024)  
   - Cisco CCNA (2023)  
   - Publicación en Medium: “Análisis de datos en Python”
