@@ -38,7 +38,6 @@
     </td>
   </tr>
 </table>
---## 📈 Matteo Yáñez’s GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dilanmateo&show_icons=true&hide_border=true&bg_color=000000&text_color=FFD700&title_color=FFD700" width="60%"/>
@@ -54,21 +53,33 @@
 
 ---
 
+---
+
 ## 🎓 Academic Background
 
 - 🎓 **Computer Systems Engineering** – Universidad Internacional del Ecuador (UIDE)  
 - 📅 Expected Graduation: 2025  
 - 📚 Currently in: **2nd Semester**
 
-### 📘 Key Courses:
-- Logic of Programming  
-- Structured and Functional Programming  
-- Computer Architecture  
-- Introduction to UNIX  
-- Data Networks  
-- Databases  
-- Differential and Integral Calculus
+### 📘 Key Courses
 
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Logic%20of%20Programming-FFD700?style=for-the-badge&logoColor=black" /></td>
+    <td><img src="https://img.shields.io/badge/Structured%20%26%20Functional%20Programming-FFD700?style=for-the-badge&logoColor=black" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Computer%20Architecture-FFD700?style=for-the-badge&logoColor=black" /></td>
+    <td><img src="https://img.shields.io/badge/Introduction%20to%20UNIX-FFD700?style=for-the-badge&logoColor=black" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Data%20Networks-FFD700?style=for-the-badge&logoColor=black" /></td>
+    <td><img src="https://img.shields.io/badge/Databases-FFD700?style=for-the-badge&logoColor=black" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://img.shields.io/badge/Differential%20%26%20Integral%20Calculus-FFD700?style=for-the-badge&logoColor=black" /></td>
+  </tr>
+</table>
 ---
 
   - Google Data Analytics (2024)  
