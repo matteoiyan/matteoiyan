@@ -38,11 +38,11 @@
     </td>
   </tr>
 </table>
-<h2 align="center">📈 Mis Stats</h2>
+## 📈 Matteo Yáñez’s GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical&hide_border=true" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dilanmateo&show_icons=true&hide_border=true&bg_color=000000&text_color=FFD700&title_color=FFD700" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilanmateo&layout=compact&hide_border=true&bg_color=000000&text_color=FFD700" width="45%"/>
 </p>
 
 ## 📫 ¡Hablemos!
