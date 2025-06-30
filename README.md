@@ -38,15 +38,18 @@
     </td>
   </tr>
 </table>
-## 📈 Matteo Yánez’s GitHub Stats
+## 📈 Matteo Yáñez’s GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilanmateo&show_icons=true&hide_border=true&bg_color=000000&text_color=FFD700&title_color=FFD700" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilanmateo&layout=compact&hide_border=true&bg_color=000000&text_color=FFD700" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dilanmateo&show_icons=true&hide_border=true&bg_color=000000&text_color=FFD700&title_color=FFD700" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilanmateo&layout=compact&hide_border=true&bg_color=000000&text_color=FFD700" width="60%"/>
 </p>
 
-<p align="center" style="color:#FFD700">
-  🔸 Most Used Languages: <strong>Python</strong>, <strong>Java</strong>, <strong>SQL</strong>, <strong>R</strong>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-FFD700?style=for-the-badge&logo=java&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=sqlite&logoColor=black" />
+  <img src="https://img.shields.io/badge/R-FFD700?style=for-the-badge&logo=r&logoColor=black" />
 </p>
 
 ## 📫 ¡Hablemos!
