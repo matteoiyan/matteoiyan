@@ -1,19 +1,25 @@
 <p align="center">
   <img src="assets/banner-cs.png" alt="Banner Ciencias de la Computación" width="100%"/>
 </p>
+## 🛠️ Tecnologías y herramientas
+
 <p align="center">
   <!-- Fila 1 -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sqlite" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 <p align="center">
   <!-- Fila 2 -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/ML-FF6F61?style=for-the-badge&logo=tensorflow" />
-  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/ML-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
+<p align="center">
+  <!-- Fila 3: redes -->
+  <img src="https://img.shields.io/badge/Packet%20Tracer-Cisco-005073?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
 <table>
   <tr>
     <td align="center">
