@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/banner-cs.png" alt="Banner Ciencias de la Computación" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&center=true&vCenter=true&width=435&lines=Welcome!;Friends!;Hackers!;Learners!;Creators!" alt="Typing SVG" />
 </p>
+
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
