@@ -4,20 +4,20 @@
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <!-- Fila 1 -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-FFD700?style=for-the-badge&logo=java&logoColor=black" alt="Java" />
+  <img src="https://img.shields.io/badge/R-FFD700?style=for-the-badge&logo=r&logoColor=black" alt="R" />
+  <img src="https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=sqlite&logoColor=black" alt="SQL" />
 </p>
 <p align="center">
-  <!-- Fila 2 -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/ML-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=black" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FFD700?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FFD700?style=for-the-badge&logo=tensorflow&logoColor=black" alt="Machine Learning" />
 </p>
 <p align="center">
-  <!-- Fila 3: redes -->
-  <img src="https://img.shields.io/badge/Packet%20Tracer-Cisco-005073?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Packet%20Tracer-FFD700?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco Packet Tracer" />
+  <img src="https://img.shields.io/badge/Networking-FFD700?style=for-the-badge&logo=wireshark&logoColor=black" alt="Networking" />
+  <img src="https://img.shields.io/badge/Cybersecurity-FFD700?style=for-the-badge&logo=kalilinux&logoColor=black" alt="Cybersecurity" />
 </p>
 
 <table>
