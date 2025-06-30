@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&center=true&vCenter=true&width=435&lines=Welcome!;Friends!;Hackers!;Learners!;Creators!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=FFD700&center=true&vCenter=true&width=500&height=60&lines=WelcomeFriends!;Hackers!;Learners!;Creators!" alt="Typing SVG" />
 </p>
-
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
