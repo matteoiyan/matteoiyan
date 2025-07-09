@@ -3,14 +3,16 @@
 </p>
 
 <p align="center">
-  Hi there! 👋 I'm **Dilan Mateo**, a dedicated **Computer Systems Engineering student** with a strong passion for **Cybersecurity** and **Data Analytics**. I love exploring how technology can solve complex problems and am constantly learning and building. My goal is to leverage my skills to contribute to innovative and impactful projects.
+  👋 Hi there! I'm **Dilan Mateo**, a passionate **Computer Systems Engineering student** with a deep interest in **Cybersecurity** and **Data Analytics**. I thrive on exploring how technology can solve complex challenges and am always eager to learn and build impactful solutions. My goal is to leverage my skills to contribute to innovative and cutting-edge projects.
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dilanmateo&color=FFD700&labelColor=100000" alt="Profile views" />
 </p>
 
-## <p align="center">💬 Connect with Me!</p>
+---
+
+## 💬 Connect with Me!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matteo-y%C3%A1nez-a79029340/" target="_blank">
@@ -19,27 +21,16 @@
   <a href="mailto:matteoyanez047@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  </p>
+</p>
 
 ---
 
 ## 🛠️ Technologies and Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-FFD700?style=for-the-badge&logo=java&logoColor=black" alt="Java" />
-  <img src="https://img.shields.io/badge/R-FFD700?style=for-the-badge&logo=r&logoColor=black" alt="R" />
-  <img src="https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=sqlite&logoColor=black" alt="SQL" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=black" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FFD700?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FFD700?style=for-the-badge&logo=tensorflow&logoColor=black" alt="Machine Learning" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Packet%20Tracer-FFD700?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco Packet Tracer" />
-  <img src="https://img.shields.io/badge/Networking-FFD700?style=for-the-badge&logo=wireshark&logoColor=black" alt="Networking" />
-  <img src="https://img.shields.io/badge/Cybersecurity-FFD700?style=for-the-badge&logo=kalilinux&logoColor=black" alt="Cybersecurity" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,r,sqlite,git,linux,tensorflow,cisco,wireshark,kali,aws,docker,html,css,js,react,nodejs,typescript" />
+  </a>
 </p>
 
 ---
@@ -50,34 +41,34 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/dilanmateo/proyecto1">
-        <img src="https://via.placeholder.com/150/FFD700/000000?text=Project+1" width="150px" alt="Project 1"/><br/>
-        <sub><b>Project Name 1</b></sub>
+      <a href="https://github.com/dilanmateo/your-actual-project-repo-1">
+        <img src="https://raw.githubusercontent.com/dilanmateo/your-actual-project-repo-1/main/assets/project1_screenshot.png" width="150px" alt="[Project 1 Name]"/><br/>
+        <sub><b>[Your New Project Name 1]</b></sub>
       </a><br/>
-      <sub>Brief description of Project 1. Tech: Python, ML.</sub>
+      <sub>A **[type of project, e.g., web app, data analysis tool]** that **[briefly describe core function/problem solved]**. Built with: [Key Tech 1], [Key Tech 2].</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/dilanmateo/proyecto2">
-        <img src="https://via.placeholder.com/150/FFD700/000000?text=Project+2" width="150px" alt="Project 2"/><br/>
-        <sub><b>Project Name 2</b></sub>
+      <a href="https://github.com/dilanmateo/your-actual-project-repo-2">
+        <img src="https://raw.githubusercontent.com/dilanmateo/your-actual-project-repo-2/main/assets/project2_screenshot.png" width="150px" alt="[Project 2 Name]"/><br/>
+        <sub><b>[Your New Project Name 2]</b></sub>
       </a><br/>
-      <sub>Brief description of Project 2. Tech: Java, SQL.</sub>
+      <sub>A **[type of project, e.g., security analysis script, data visualization dashboard]** for **[briefly describe problem solved/functionality]**. Utilizes: [Key Tech 1], [Key Tech 2].</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/dilanmateo/proyecto3">
-        <img src="https://via.placeholder.com/150/FFD700/000000?text=Project+3" width="150px" alt="Project 3"/><br/>
-        <sub><b>Project Name 3</b></sub>
+      <a href="https://github.com/dilanmateo/your-actual-project-repo-3">
+        <img src="https://raw.githubusercontent.com/dilanmateo/your-actual-project-repo-3/main/assets/project3_screenshot.png" width="150px" alt="[Project 3 Name]"/><br/>
+        <sub><b>[Project Name 3]</b></sub>
       </a><br/>
-      <sub>Brief description of Project 3. Tech: Networking, Cisco.</sub>
+      <sub>Brief description of Project 3. Tech: [Key Tech 1], [Key Tech 2].</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/dilanmateo/proyecto4">
-        <img src="https://via.placeholder.com/150/FFD700/000000?text=Project+4" width="150px" alt="Project 4"/><br/>
-        <sub><b>Project Name 4</b></sub>
+      <a href="https://github.com/dilanmateo/your-actual-project-repo-4">
+        <img src="https://raw.githubusercontent.com/dilanmateo/your-actual-project-repo-4/main/assets/project4_screenshot.png" width="150px" alt="[Project 4 Name]"/><br/>
+        <sub><b>[Project Name 4]</b></sub>
       </a><br/>
-      <sub>Brief description of Project 4. Tech: Linux, Scripting.</sub>
+      <sub>Brief description of Project 4. Tech: [Key Tech 1], [Key Tech 2].</sub>
     </td>
   </tr>
 </table>
@@ -100,9 +91,9 @@
 
 ## 🎓 Academic Background
 
-- 🎓 **Computer Systems Engineering** – [Universidad Internacional del Ecuador (UIDE)](https://www.uide.edu.ec/)  
-- 📅 Expected Graduation: 2025  
-- 📚 Currently in: **2nd Semester**
+- 🎓 **Computer Systems Engineering** – [Universidad Internacional del Ecuador (UIDE)](https://www.uide.edu.ec/)
+- 📅 Expected Graduation: **2029** (Adjust this based on your actual 5-year program duration from starting)
+- 📚 Currently in: **2nd Year of Studies / 4th Semester** (This provides clearer context for a multi-year degree. Adjust to your actual status.)
 
 ### 📘 Key Courses
 
@@ -134,9 +125,11 @@
   <summary>View Certifications</summary>
   <p>
     <ul>
-      <li><a href="https://www.credly.com/your_badge_link_google_data_analytics" target="_blank">Google Data Analytics</a> (2024)</li>
-      <li><a href="https://www.credly.com/your_badge_link_cisco_ccna" target="_blank">Cisco CCNA</a> (2023)</li>
+      <li><a href="https://www.credly.com/your_google_data_analytics_badge_link" target="_blank">Google Data Analytics</a> (2024)</li>
+      <li><a href="https://www.credly.com/your_cisco_ccna_badge_link" target="_blank">Cisco CCNA</a> (2023)</li>
       <li>Medium Publication: <a href="https://medium.com/your_medium_article_link" target="_blank">“Data Analysis in Python”</a></li>
-      </ul>
+    </ul>
   </p>
 </details>
+
+
