@@ -33,7 +33,6 @@
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5 Badge" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
     </td>
-
     <!-- Proyecto 2 -->
     <td align="center" width="50%">
       <a href="https://github.com/matteoiyan/Electronic-Invoicing_EC">
