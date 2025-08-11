@@ -28,17 +28,21 @@
     <!-- Proyecto 1 -->
     <td align="center" width="50%">
       <a href="https://github.com/matteoiyan/password-generator" style="text-decoration: none;">
-        <p><u>Generador de contraseñas</u></p>
+        Generador de contraseñas
       </a>
+       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5 Badge" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
+      <p>Proyecto sencillo para gestionar contraseñas</p>
     </td>
     <!-- Proyecto 2 -->
     <td align="center" width="50%">
-      <a href="https://github.com/matteoiyan/Electronic-Invoicing_EC">
-        <img src="https://raw.githubusercontent.com/dilanmateo/your-actual-project-repo-2/main/assets/project2_screenshot.png" width="150" alt="Electronic-Invoicing_EC"/><br/>
-        <b>Electronic-Invoicing_EC</b>
+      <a href="https://github.com/matteoiyan/Electronic-Invoicing_EC" style="text-decoration:none">
+        Facturarion electronica
       </a>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5 Badge" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
       <p>
         Sistema web de facturación electrónica con Python y Flask, diseñado para generar, firmar digitalmente y almacenar facturas según los estándares del SRI en Ecuador.
       </p>
