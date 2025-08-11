@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=5000&color=FFD700&center=true&vCenter=true&width=700&height=90&lines=WELCOME+TO+MY+GITHUB+PROFILE!;EXPLORE+MY+WORK!;CONNECT+WITH+ME!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=5000&color=FFD700&center=true&vCenter=true&width=700&height=90&lines=Bienvenido a mi Github!;Explora mis trabajos!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
     <td align="center" width="50%">
       <a href="https://github.com/matteoiyan/password-generator" style="text-decoration: none;">
         Generador de contraseñas
-      </a>
+      </a><br>
        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5 Badge" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
@@ -39,7 +39,7 @@
     <td align="center" width="50%">
       <a href="https://github.com/matteoiyan/Electronic-Invoicing_EC" style="text-decoration:none">
         Facturarion electronica
-      </a>
+      </a><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5 Badge" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
