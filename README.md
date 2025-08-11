@@ -28,12 +28,14 @@
 <table>
   <tr>
     <td align="center" width="50">
-      <a href="https://github.com/matteoiyan/password-generator" style="text-decoration: none;">
-        <p><u>Generador de contraseñas</u></p>
-      </a><br/>
-      <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black" />
-      <img src="https:https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+       <div style="border: 2px solid #FF0000; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%);">
+          <a href="https://github.com/matteoiyan/password-generator" style="text-decoration: none;">
+            <p><u>Generador de contraseñas</u></p>
+          </a><br/>
+          <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" />
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black" />
+          <img src="https:https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <div/>
     </td>
     <td align="center" width="50">
       <a href="https://github.com/matteoiyan/Electronic-Invoicing_EC">
