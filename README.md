@@ -22,24 +22,25 @@
 
 ---
 
-## ✨ Featuros proyectos 
+## ✨ Proyectos 
 
 <p align="center">
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/matteoiyan/password-generator">
-        <img src="https://raw.githubusercontent.com/dilanmateo/your-actual-project-repo-1/main/assets/project1_screenshot.png" width="150px" alt="password-generator"/><br/>
-        <sub><b>password-generator</b></sub>
+    <td align="center" width="50">
+      <a href="https://github.com/matteoiyan/password-generator" style="text-decoration: none;">
+        <p><u>Generador de contraseñas</u></p>
       </a><br/>
-      <sub>A **[type of project, e.g., web app, data analysis tool]** that **[briefly describe core function/problem solved]**. Built with: [Key Tech 1], [Key Tech 2].</sub>
+      <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black" />
+      <img src="https:https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     </td>
-    <td align="center">
+    <td align="center" width="50">
       <a href="https://github.com/matteoiyan/Electronic-Invoicing_EC">
         <img src="https://raw.githubusercontent.com/dilanmateo/your-actual-project-repo-2/main/assets/project2_screenshot.png" width="150px" alt="Electronic-Invoicing_EC"/><br/>
         <sub><b>[Electronic-Invoicing_EC]</b></sub>
       </a><br/>
-      <sub>A **[This is a web-based electronic invoicing system built with Python and Flask, designed to generate, digitally sign, and store invoices in compliance with the Ecuadorian SRI standards.]**.                         Utilizes: [Key Tech 1], [Key Tech 2].</sub>
+      <sub>[This is a web-based electronic invoicing system built with Python and Flask, designed to generate, digitally sign, and store invoices in compliance with the Ecuadorian SRI standards.].                         Utilizes: [Key Tech 1], [Key Tech 2].</sub>
     </td>
   </tr>
 </table>
