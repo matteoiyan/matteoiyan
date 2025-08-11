@@ -87,7 +87,9 @@
   
   ---
 </details>
+
   ---
+  
   ## 💬 Conecta conmigo!
 
 <p align="center">
