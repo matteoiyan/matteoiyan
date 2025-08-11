@@ -22,31 +22,31 @@
 
 ---
 
-## ✨ Proyectos 
+<h2 style="text-align: center;">✨ Proyectos</h2>
 
-<p align="center">
-<table>
-  <tr>
-    <td align="center" width="50">
-       <div style="border: 2px solid #FF0000; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%);">
-          <a href="https://github.com/matteoiyan/password-generator" style="text-decoration: none;">
-            <p><u>Generador de contraseñas</u></p>
-          </a><br/>
-          <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" />
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black" />
-          <img src="https:https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-        <div/>
-    </td>
-    <td align="center" width="50">
-      <a href="https://github.com/matteoiyan/Electronic-Invoicing_EC">
-        <img src="https://raw.githubusercontent.com/dilanmateo/your-actual-project-repo-2/main/assets/project2_screenshot.png" width="150px" alt="Electronic-Invoicing_EC"/><br/>
-        <sub><b>[Electronic-Invoicing_EC]</b></sub>
-      </a><br/>
-      <sub>[This is a web-based electronic invoicing system built with Python and Flask, designed to generate, digitally sign, and store invoices in compliance with the Ecuadorian SRI standards.].                         Utilizes: [Key Tech 1], [Key Tech 2].</sub>
-    </td>
-  </tr>
-</table>
-</p>
+<div class="projects-grid">
+  
+  <!-- Proyecto 1 -->
+  <div class="project-card">
+    <a href="https://github.com/matteoiyan/password-generator" class="project-link">
+      <p><u>Generador de contraseñas</u></p>
+    </a>
+    <div class="badges">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5 Badge" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
+    </div>
+  </div>
+
+  <!-- Proyecto 2 -->
+  <div class="project-card">
+    <a href="https://github.com/matteoiyan/Electronic-Invoicing_EC" class="project-link">
+      <img src="https://raw.githubusercontent.com/dilanmateo/your-actual-project-repo-2/main/assets/project2_screenshot.png" alt="Electronic-Invoicing_EC" class="project-img"/>
+      <p><b>Electronic-Invoicing_EC</b></p>
+    </a>
+    <p class="description">
+      Sistema web de facturación electrónica con Python y Flask, diseñado para generar, firmar digitalmente y almacenar facturas según los estándares del SRI en Ecuador.
+    </p>
+  </div>
 
 ---
 
