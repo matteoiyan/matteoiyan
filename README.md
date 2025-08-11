@@ -1,7 +1,4 @@
-<div style="text-align: center;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=5000&color=FFD700&center=true&vCenter=true&width=700&height=90&lines=Bienvenido a mi Github!;Explora mis trabajos!" alt="Typing SVG" />
-</div>
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=5000&color=FFD700&center=true&vCenter=true&width=700&height=90&lines=Bienvenido a mi Github!;Explora mis trabajos!)
 
 <p align="center">
   👋Hola, me presento: soy Mateo Yánez, estudiante y apasionado de las Ciencias de la Computación, con un profundo interés en la Ciberseguridad y el Análisis de Datos. Me gusta investigar nuevas tecnologías, resolver problemas complejos y crear soluciones innovadoras. Mi meta es mejorar mis habilidades para contribuir al desarrollo de tecnologías avanzadas.
