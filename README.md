@@ -21,7 +21,6 @@
 </p>
 
 ---
-
 <h2 style="text-align: center;">✨ Proyectos</h2>
 
 <div class="projects-grid">
@@ -47,6 +46,51 @@
       Sistema web de facturación electrónica con Python y Flask, diseñado para generar, firmar digitalmente y almacenar facturas según los estándares del SRI en Ecuador.
     </p>
   </div>
+
+</div>
+
+<style>
+.projects-grid {
+  display: grid;
+  grid-template-columns: 50% 50%; /* ✅ Exactamente dos columnas iguales */
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+}
+
+.project-card {
+  background: #fff;
+  border-radius: 8px;
+  padding: 15px;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease-in-out;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+}
+
+.project-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.project-img {
+  width: 150px;
+  border-radius: 4px;
+}
+
+.badges img {
+  margin-top: 10px;
+  margin-right: 5px;
+}
+
+.description {
+  font-size: 0.9rem;
+  color: #555;
+}
+</style>
 
 ---
 
