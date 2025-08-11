@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=5000&color=FFD700&center=true&vCenter=true&width=700&height=90&lines=Bienvenido a mi Github!;Explora mis trabajos!" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=5000&color=FFD700&center=true&vCenter=true&width=700&height=90&lines=Bienvenido!;Explora mis trabajos!" alt="Typing SVG" />
     </td>
   </tr>
 </table>
